@@ -76,7 +76,7 @@ function TV(scene){
 		// Chryon container
 		var chyron = new PIXI.Container();
 		chyron.alpha = 0;
-		chyron.x = +15;
+		chyron.x = -15;
 		Tween_get(chyron).to({alpha:1}, _s(0.5), Ease.quadInOut);
 		Tween_get(chyron).to({x:0}, _s(0.8), Ease.quadInOut);
 		photoContainer.addChild(chyron);
@@ -96,12 +96,12 @@ function TV(scene){
 			//if(text.length>max){ // more than [max] chars...
 			//	fontsize = Math.floor(max*fontsize/text.length);
 			//}
-		    var text = new PIXI.Text(text + "\n", {font:"bold "+fontsize+"px Cairo", align:"right", fill:"#FFF"});  // \n hack. needed when the text field cuts some of the string font's bottom
+		    var text = new PIXI.Text(text + "\n", {font:"bold "+fontsize+"px Cairo", fill:"#FFF"});  // \n hack. needed when the text field cuts some of the string font's bottom
 		    text.scale.x = text.scale.y = 0.2;
 		    text.anchor.x = 0;
 		    text.anchor.y = 0.5;
-		    text.x = 30;
-		    text.y = 120;
+		    text.x = 45;
+		    text.y = 115;
 		    chyron.addChild(text);
 		}
 
