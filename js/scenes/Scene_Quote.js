@@ -19,8 +19,9 @@ function Scene_Quote(){
 	var q4 = new PIXI.Container();
     
     // Text
-    var q2Sprite = MakeSprite("quote0002");
-    q2.addChild(q2Sprite);
+	// we dont need these as there are texts too...
+    //var q2Sprite = MakeSprite("quote0002");
+    //q2.addChild(q2Sprite);
     
     var q2TitleText = new PIXI.Text(textStrings["WBWWB"] + "\n", {font:"65px Times", fill:"#FFFFFF", align:"center"});
     q2TitleText.anchor.x = 0.5;
@@ -43,8 +44,8 @@ function Scene_Quote(){
     q2QuoteText.y = Game.height / 2 - 6;
     q2.addChild(q2QuoteText);
     
-    var q3Sprite = MakeSprite("quote0003");
-    q3.addChild(q3Sprite);
+    //var q3Sprite = MakeSprite("quote0003");
+    //q3.addChild(q3Sprite);
     
     var q3Name = new PIXI.Text(textStrings["MarshallMcLuhan"], {font:"33px Times", fill:"#FFFFFF", align:"center"});
     q3Name.anchor.x = 0.5;
@@ -53,8 +54,8 @@ function Scene_Quote(){
     q3Name.y = Game.height / 2 + 76;
     q3.addChild(q3Name);
     
-    var q4Sprite = MakeSprite("quote0004");
-    q4.addChild(q4Sprite);
+    //var q4Sprite = MakeSprite("quote0004");
+    //q4.addChild(q4Sprite);
     
 var q4Text = new PIXI.Text(textStrings["misatrributed"] + "\n", {font:"33px Times", fill:"#FFFFFF", align:"center"});
     q4Text.anchor.x = 0.5;
