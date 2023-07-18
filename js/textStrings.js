@@ -4,102 +4,102 @@
 
 var textStrings = {
 	// Act 1
-	"niceHat": "OOH NICE HAT",
-	"outtaHere": "yeah git on outta here",
-	"getARoom": "GROSS, GO GET A ROOM",
-	"notCoolAnymore": "nvm hats aren't cool anymore",
-	"tvOnTv": "A TV... ON TV!",
-	"cricky": "LIL' CRICKY <3",
-	"tooManyCrickets": "okay that's too many crickets",
-	"normalPeep": "just a normal peep",
-	"normalPeeps": "just some normal peeps",
-	"wowNothing": "WOWWEE, IT'S NOTHING",
+	"niceHat": "OOH SZÉP KALAP",
+	"outtaHere": "igen, tűnés innen",
+	"getARoom": "FÚJ, TARTSD MEG OTTHONRA",
+	"notCoolAnymore": "nvm a kalapok már nem menők",
+	"tvOnTv": "EGY TV... A TV-BEN!",
+	"cricky": "KIS TÜCSKÖS <3",
+	"tooManyCrickets": "oké, ez túl sok tücsök",
+	"normalPeep": "csak egy átlagos kukkoló",
+	"normalPeeps": "csak pár átlagos kukkoló",
+	"wowNothing": "WOWWEE, EZ SEMMI!",
 
 	// Act 2
-	"crazySquareAttacks": "CRAZED SQUARE ATTACKS",
-	"justMissed": "oooooh just missed it",
-	"somethingInteresting": "(ya gotta catch 'em doing *something* interesting...)",
-	"whoIsScreaming": "(ya gotta catch who's screaming at 'em)",
-	"circleFearsSquares": "CIRCLE FEARS SQUARES",
-	"whoScaresThem": "(ya gotta also catch *who* they're scared by)",
-	"areTheyScared": "(ya gotta catch 'em *being* scared by a square)", // not used
-	"squaresSnubCircles": "SQUARES SNUB CIRCLES",
-	"areTheySnubbed": "(ya gotta catch 'em *while* snubbing a circle)", // not used
-	"everyoneHates": "EVERYONE HATES EVERYONE!!1!",
-	"almostEveryoneHates": "ALMOST EVERYONE HATES EVERYONE...",
-	"squaresHateCircles": "SQUARES HATE CIRCLES",
-	"circlesHateSquares": "CIRCLES HATE SQUARES",
-	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
-	"nerdsNow": "what are these nerds doing now",
-	"schockedPeep": "why's this peep shocked?",
-	"whatever": "whatever",
+	"crazySquareAttacks": "ŐRÜLT NÉGYZETES TÁMADÁSOK",
+	"justMissed": "oooooh épp lemaradt",
+	"somethingInteresting": "(próbáld meg őket elkapni amint *valami* érdekeset csinálnak...)",
+	"whoIsScreaming": "(kapd el, amikor vkit leüvölt)",
+	"circleFearsSquares": "KÖRÖK FÉLNEK A NÉGYZETEKTŐL",
+	"whoScaresThem": "(kapd el azt is, hogy kitől félnek)",
+	"areTheyScared": "(kapd el, amint *megijednek* egy négyzettől)", // not used
+	"squaresSnubCircles": "NÉGYZETEK LENÉZIK A KÖRÖKET",
+	"areTheySnubbed": "(kapd el, *amint* lenéz egy körfejűt)", // not used
+	"everyoneHates": "MINDENKI UTÁL MINDENKIT!!1!",
+	"almostEveryoneHates": "MAJDNEM MINDENKI UTÁL MINDENKIT...",
+	"squaresHateCircles": "NÉGYZETEK UTÁLJÁK A KÖRÖKET",
+	"circlesHateSquares": "KÖRÖK UTÁLJÁK A NÉGYZETEKET",
+	"areTheyYelling": "(kapd el, amint *kiabálnak* egymással)", // not used
+	"nerdsNow": "há' mit csinálnak ezek a gyíkok",
+	"schockedPeep": "miért sokkos ez a kukkoló?",
+	"whatever": "akármi",
 
 	// Act 3
 	"ellipsis": ". . .",
-	"coolNoMore": "hats ain't cool no more, haven't you heard?",
-	"beScared": "BE SCARED. BE ANGRY.",
+	"coolNoMore": "a kalapok már nem menők, a füleden ülsz?",
+	"beScared": "FÉLJ. LÉGY MÉRGES.",
 
 	// MANIFESTO
 	"manifesto": [
 		//"as if you viewers want GOOD news"       ,
-		"who tunes in to watch *people get along?*",
-		"peace is boring. violence goes viral.",
+		"ki nézi má' azt, hogy *emberek barátkoznak?*",
+		"a béke unalmas. az erőszak nézetté tesz.",
 		//"peace is boring. conflict gets clicks." ,
-		"and every story needs a conflict, so...",
+		"minden storinak kell egy konfliktus, szóval...",
 		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-		"GIVE THE AUDIENCE WHAT THEY WANT."
+		"ADD MEG A NÉPNEK, AMIT AKAR."
 	],
 
 	// -- Strings currently in graphics resources --
 
 	// (bg_preload.png) Preload screen
-	"playingTime": "playing time: 5 minutes",
-	"warning": "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised.",
+	"playingTime": "játékidő: 5 perc",
+	"warning": "figyelmeztetés: ez a program\nsznobizmus,durvaság és tömeg-\ngyilkosság jeleneteit tartalmazza.\na nézők diszkréciója ajánlott.",
 
 	// (cam-instructions.png) Camera Instructions
-	"pointAndClick": "POINT & CLICK",
+	"pointAndClick": "KATTINTS BÁRHOVÁ",
 
 	// (chyron3.png)
-	"chyronNothing": "WOWWEE, IT'S *NOTHING*",
+	"chyronNothing": "WOWWEE, EZ *SEMMI!*",
 
 	// (credits0001.png)
-	"createdBy": "created by",
+	"createdBy": "készítette",
 	"NickyCase": "Nicky Case",
 
 	// (credits0002.png)
-	"manyThanks": "many thanks to my playtesters:",
+	"manyThanks": "sok kösöznet a tesztelőimnek:",
 
 	// (credits000[3,4,5,6].png)
-	"patreonSupporters": "and to my patreon supporters:",
+	"patreonSupporters": "és a patreon támogatóimnak:",
 
 	// (credits0007.png)
-	"lastButNotLeast": "and last but not least,",
+	"lastButNotLeast": "és utoljára, de nem utolsó sorban,",
 
 	// (credits0008.png)
-	"thankYouForPlaying": "thank YOU for playing!",
+	"thankYouForPlaying": "köszönöm NEKED, hogy játszottál!",
 
 	// (preload_play.png)
-	"playButton": "PLAY",
+	"playButton": "JÁTÉK",
 
 	// (end_button.png) Post Credits
-	"otherWorkButton": "see my other work",
-	"buyCoffeeButton": "buy me a coffee",
-	"replayButton": "replay this mess",
+	"otherWorkButton": "más munkáim",
+	"buyCoffeeButton": "vegyél nekem egy kávét",
+	"replayButton": "játszd újra",
 
 	// (logo.png) Post Credits
-	"logoWBWWB": "SHARE THE PAIN:",
+	"logoWBWWB": "OSZD MEG EZT A FÁJDALMAT:",
 
 	// (end_prototype.png)
-	"endOfPrototype": "END OF PROTOTYPE",
-	"toBeContinued": "(to be continued!)",
+	"endOfPrototype": "VÉGE A PROTOTÍPUSNAK",
+	"toBeContinued": "(folytatjuk!)",
 
 	// (quote0002.png)
-	"WBWWB": "We become what we behold.",
-	"WSOTATOTSU": "We shape our tools and then our tools shape us.",
+	"WBWWB": "Azzá válunk, amit nézünk.",
+	"WSOTATOTSU": "Mi alakítjuk az eszközeinket, majd az eszközeink alakítanak minket.",
 
 	// (quote0003.png)
 	"MarshallMcLuhan": "Marshall McLuhan",
 
 	// (quote0004.png)
-	"misatrributed": "(misattributed)",
+	"misatrributed": "(félretulajdonítva)",
 };
