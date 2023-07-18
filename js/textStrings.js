@@ -2,7 +2,7 @@
 ///// TEXT STRINGS ////////////////
 ///////////////////////////////////
 
-var textStrings_EN = {
+var textStrings = {
 	// Act 1
 	"niceHat": "OOH NICE HAT",
 	"outtaHere": "yeah git on outta here",
