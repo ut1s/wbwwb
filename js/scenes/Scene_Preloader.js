@@ -50,7 +50,7 @@ function Scene_Preloader(){
     playingTimeText.anchor.x = 0.5;
     playingTimeText.anchor.y = 0.5;
     playingTimeText.x = bar.x;
-    playingTimeText.y = 300;
+    playingTimeText.y = 335;
     Game.stage.addChild(playingTimeText);
     
     // Warning text
