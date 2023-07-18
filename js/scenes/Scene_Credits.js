@@ -17,12 +17,14 @@ function Scene_Credits(){
 	Scene.call(self);
 
 	// Layers, yo.
+	// We don't need this, yo.
 	var cont = new PIXI.Container();
 	Game.stage.addChild(cont);
 	var c = {};
 	for(var i=1; i<=8; i++){
         c[i] = new PIXI.Container();
-        c[i].addChild(MakeSprite("credits000"+i));
+        // We don't need this, yo.
+		//c[i].addChild(MakeSprite("credits000"+i));
         c[i].alpha = 0;
 		cont.addChild(c[i]);
 	}
