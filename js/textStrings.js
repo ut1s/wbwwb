@@ -20,23 +20,23 @@ var textStrings = {
 	"justMissed": "oooooh épp lemaradt",
 	"somethingInteresting": "(próbáld meg őket elkapni amint *valami* érdekeset csinálnak...)",
 	"whoIsScreaming": "(kapd el, amikor vkit leüvölt)",
-	"circleFearsSquares": "KÖRÖK FÉLNEK A NÉGYZETEKTŐL",
-	"whoScaresThem": "(kapd el azt is, hogy kitől félnek)",
-	"areTheyScared": "(kapd el, amint *megijednek* egy négyzettől)", // not used
-	"squaresSnubCircles": "NÉGYZETEK LENÉZIK A KÖRÖKET",
+	"circleFearsSquares": "A KÖRÖK FÉLNEK A NÉGYZETEKTŐL",
+	"whoScaresThem": "(kapd el azt is, hogy kitől fél)",
+	"areTheyScared": "(kapd el, amint *megijed* egy négyzettől)", // not used
+	"squaresSnubCircles": "A NÉGYZETEK LENÉZIK A KÖRÖKET",
 	"areTheySnubbed": "(kapd el, *amint* lenéz egy körfejűt)", // not used
 	"everyoneHates": "MINDENKI UTÁL MINDENKIT!!1!",
 	"almostEveryoneHates": "MAJDNEM MINDENKI UTÁL MINDENKIT...",
-	"squaresHateCircles": "NÉGYZETEK UTÁLJÁK A KÖRÖKET",
-	"circlesHateSquares": "KÖRÖK UTÁLJÁK A NÉGYZETEKET",
+	"squaresHateCircles": "A NÉGYZETEK UTÁLJÁK A KÖRÖKET",
+	"circlesHateSquares": "A KÖRÖK UTÁLJÁK A NÉGYZETEKET",
 	"areTheyYelling": "(kapd el, amint *kiabálnak* egymással)", // not used
-	"nerdsNow": "há' mit csinálnak ezek a gyíkok",
+	"nerdsNow": "há' itt meg mit csinálnak ezek a gyíkok",
 	"schockedPeep": "miért sokkos ez a kukkoló?",
 	"whatever": "akármi",
 
 	// Act 3
 	"ellipsis": ". . .",
-	"coolNoMore": "a kalapok már nem menők, a füleden ülsz?",
+	"coolNoMore": "a kalap már nem menő, a füleden ülsz?",
 	"beScared": "FÉLJ. LÉGY MÉRGES.",
 
 	// MANIFESTO
@@ -45,7 +45,7 @@ var textStrings = {
 		"ki nézi má' azt, hogy *emberek barátkoznak?*",
 		"a béke unalmas. az erőszak nézetté tesz.",
 		//"peace is boring. conflict gets clicks." ,
-		"minden storinak kell egy konfliktus, szóval...",
+		"minden sztorinak kell egy konfliktus, szóval...",
 		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
 		"ADD MEG A NÉPNEK, AMIT AKAR."
 	],
