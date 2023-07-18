@@ -101,7 +101,7 @@ function TV(scene){
 		    text.anchor.x = 0;
 		    text.anchor.y = 0.5;
 		    text.x = 45;
-		    text.y = 115;
+		    text.y = 120;
 		    chyron.addChild(text);
 		}
 
