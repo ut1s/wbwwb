@@ -4,7 +4,7 @@
 
 *egy játék a hírciklusokról, ördögi ciklusokról, végtelen ciklusokról*
 
-**[Játszd magyarul (még nincs kész)](hu)**
+**[Játszd magyarul](https://ut1s.github.io/wbwwb/)**
 
 **[PLAY (ENGLISH)](https://ncase.itch.io/wbwwb)**
 
