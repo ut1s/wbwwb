@@ -24,7 +24,8 @@ function Scene_Credits(){
 	for(var i=1; i<=8; i++){
         c[i] = new PIXI.Container();
         // We don't need this, yo.
-		//c[i].addChild(MakeSprite("credits000"+i));
+		c[i].addChild(MakeSprite("credits000"+i));
+		// Okay, it's better with it but just because I want it, okay?
         c[i].alpha = 0;
 		cont.addChild(c[i]);
 	}
