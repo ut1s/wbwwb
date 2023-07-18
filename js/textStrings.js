@@ -67,7 +67,7 @@ var textStrings = {
 	"NickyCase": "Nicky Case",
 
 	// (credits0002.png)
-	"manyThanks": "sok kösöznet a tesztelőimnek:",
+	"manyThanks": "sok köszönet a tesztelőimnek:",
 
 	// (credits000[3,4,5,6].png)
 	"patreonSupporters": "és a patreon támogatóimnak:",
