@@ -92,10 +92,10 @@ function TV(scene){
 
 		// Chyron Text
 		if(!options.nothing){
-			var fontsize=50; //, max=14;
-			//if(text.length>max){ // more than [max] chars...
-			//	fontsize = Math.floor(max*fontsize/text.length);
-			//}
+			var fontsize=100, max=	14; //, max=14;
+			if(text.length>max){ // more than [max] chars...
+				fontsize = Math.floor(max*fontsize/text.length);
+			}
 		    var text = new PIXI.Text(text + "\n", {font:"bold "+fontsize+"px Cairo", fill:"#FFF"});  // \n hack. needed when the text field cuts some of the string font's bottom
 		    text.scale.x = text.scale.y = 0.2;
 		    text.anchor.x = 0;
